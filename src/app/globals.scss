@@ -1,4 +1,5 @@
-@import "tailwindcss";
-@config "../../tailwind.config.ts";
+@use "@carbon/colors";
 
-@import "@carbon/react/index.scss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
