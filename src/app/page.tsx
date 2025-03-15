@@ -35,9 +35,15 @@ export default function LandingPage() {
 			<Tab>Develop</Tab>
 		</TabList>
 		<TabPanels>
-			<TabPanel>Hi</TabPanel>
-			<TabPanel>Hi</TabPanel>
-			<TabPanel>Hi</TabPanel>
+			<TabPanel>Carbon is IBM’s open-source design system for digital
+                    products and experiences. With the IBM Design Language as
+                    its foundation, the system consists of working code, design
+                    tools and resources, human interface guidelines, and a
+                    vibrant community of contributors.</TabPanel>
+			<TabPanel>Rapidly build beautiful and accessible experiences. The
+                    Carbon kit contains all resources you need to get started.</TabPanel>
+			<TabPanel>Carbon provides styles and components in Vanilla, React,
+                    Next, Angular, and Vue for anyone building on the web.</TabPanel>
 		</TabPanels>
 	</Tabs>
       </Column>

@@ -16,7 +16,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-      	<h1 className="text-red-100">Hello</h1>
         <Providers>{children}</Providers>
       </body>
     </html>
